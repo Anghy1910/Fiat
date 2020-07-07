@@ -1,0 +1,112 @@
+.navbar a{
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.navbar{
+    border: 1.5px solid #FE8484;
+}
+.navbar a:hover{
+    background-color: #FE8484;
+    border-radius: 10px;
+}
+.btn{
+    font-family: 'Lobster', cursive;
+    color: black;
+    background-color: #FE3939;
+    color: white;
+    border: 2px solid white;
+    font-size: 40px;
+    display: inline-block;
+}
+.btn:hover{
+    color: black;
+    border: 2px solid #FE8484;
+    background-color: #E1E1E1;
+}
+.card{
+    border: 2px solid #530000;
+    margin-top: 50px;
+    display: inline-block;
+    box-shadow:  0px 1px 8px 2px #FE2020;
+    background-color: black;
+}
+.card-title{
+    font-family: 'Pacifico', cursive;
+    color: white;
+    font-size: 30px;
+}
+.card-text{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: white;
+}
+.list-group-item{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.btn-toolbar{
+    display: inline;
+}
+.btn__tegustaria{
+    font-family: 'Lobster', cursive;
+    color: black;
+    border: 2px solid #BA0000;
+    font-size: 20px;
+    display: inline-block;
+    background-color: white;
+    margin-left: 5px;
+}
+.btn__tegustaria:hover{
+    background-color: #BA0000;
+    color: white;
+}
+.texto__tegustaria{
+    margin-top: 20px;
+    font-size: 40px;
+    color: black;
+    margin-left: 20px;
+}
+.table-responsive{
+    margin-top: 40px;
+    margin-left: 30px;
+    width: 90%;
+}
+.titulotabla{
+    font-family: 'Merienda One', cursive;
+    font-size: 20px;
+    color: #BA0000;
+}
+.texto__tabla{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.carousel{
+    margin-top: 50px;
+}
+.viñeta__img{
+    width: 80px;
+}
+.titulo__lista{
+    font-family: 'Lobster', cursive;
+    color: black;
+    font-size: 30px;
+}
+.img__oferta{
+    width: 400px;
+}
+.img_carro1{
+    width: 200px;
+    border-radius: 30px;
+}
+.texto__lista{
+    font-family: 'Pacifico', cursive;
+    color: white;
+    font-size: 18px;
+}
+.btn__suscribirse{
+    font-size: 20px;
+    margin-left: 20px;
+}
+.texto__suscripcion{
+    margin-left: 20px;
+}
